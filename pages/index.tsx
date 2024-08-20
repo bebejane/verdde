@@ -17,7 +17,8 @@ export default function Home() {
         <section className="text">
           <span className="intro">Buoris, vad roligt att du hittat hit!<br /></span>
           Kom tillbaka igen under höstsommaren för mer innehåll.<br />
-          Tills dess finns vi på <a href="https://www.instagram.com/verddekonst">@verddekonst</a> och <a href="mailto:info@verdde.net">info@verdde.net</a></section>
+          Tills dess finns vi på <a href="https://www.instagram.com/verddekonst">@verddekonst</a> och <a href="mailto:info@verdde.net">info@verdde.net</a>
+        </section>
       </div>
     </>
   );
