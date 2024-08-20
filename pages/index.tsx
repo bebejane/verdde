@@ -1,6 +1,4 @@
 import Head from "next/head";
-import s from "./index.module.scss";
-
 
 export default function Home() {
   return (
